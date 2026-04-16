@@ -13,7 +13,8 @@
       "description": "Token-efficient compressed output with optional ELI5 overlay. See https://github.com/skjangx/nutshell.",
       "source": {
         "source": "github",
-        "repo": "skjangx/nutshell"
+        "repo": "skjangx/nutshell",
+        "ref": "v0.1.0"
       },
       "category": "productivity"
     }
