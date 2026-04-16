@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "acorn",
+  "owner": {
+    "name": "skjangx"
+  },
+  "metadata": {
+    "description": "Small, sharp tools for Claude Code by skjangx."
+  },
+  "plugins": [
+    {
+      "name": "nutshell",
+      "description": "Token-efficient compressed output with optional ELI5 overlay. See https://github.com/skjangx/nutshell.",
+      "source": {
+        "source": "github",
+        "repo": "skjangx/nutshell"
+      },
+      "category": "productivity"
+    }
+  ]
+}
